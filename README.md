@@ -15,4 +15,4 @@ YouTube is a video sharing service where users can watch, like, share, comment a
  5. User taps subscribe button to subcribe the channel.
  6. User taps ring icon button and taps all button to get notified everytime the channel updates.
  ## Wireflow
- ![wireflow-pic](C:\Users\Will\Desktop\source\sait\assignment\270-assignent1youtube/1234567.jpg).
+ ![wireflow-pic](1234567.jpg).
